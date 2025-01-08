@@ -1,5 +1,5 @@
 
-This is an advanced To-Do-App in react.js. This application is built with react context API for state management and uses local storage for data persistence.
+This is an advanced To-Do-App in react.js and styled with Tailwind CSS. This application is built with react context API for state management and uses local storage for data persistence.
 
 
 # Getting Started with Create React App
